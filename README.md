@@ -230,7 +230,7 @@ TOTAL TIME = 2
 
 FREQUENCY = 1/(TOTAL TIME) = 1/2 = 500hz
 
-Duty cycle(%) = (TON/(TON+TOFF))*100 = 60%
+Duty cycle(%) = (TON/(TON+TOFF))*100 = (1.2/(1.2+0.8))  = 60%
 
 
 **FOR PULSE AT 700**
@@ -243,7 +243,7 @@ TOTAL TIME = 2
 
 FREQUENCY = 1/(TOTAL TIME) = 1/2 = 500 hz
 
-Duty cycle(%) = (TON/(TON+TOFF))*100 = 80%
+Duty cycle(%) = (TON/(TON+TOFF))*100 = (1.6/(1.6+0.4)) = 80%
 
 **FOR PULSE AT 900**
 
@@ -255,7 +255,7 @@ TOTAL TIME = 2
 
 FREQUENCY = 1/(TOTAL TIME) = 1/2 = 500hz
 
-Duty cycle(%) = (TON/(TON+TOFF))*100 = 95%
+Duty cycle(%) = (TON/(TON+TOFF))*100 = (1.9/(1.9+0.1)) = 95%
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
